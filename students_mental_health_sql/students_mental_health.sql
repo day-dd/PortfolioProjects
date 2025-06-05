@@ -1,5 +1,5 @@
 -- (source: https://www.datacamp.com/projects/1593)
--- In this project, whether international students have a higher risk of mental health difficulties than the general population, and whether social connectedness (belonging to a social group) and acculturative stress (stress associated with joining a new culture) are predictive of depression.
+-- The goal of the project is to examine whether international students have a higher risk of mental health difficulties than the general population, and whether social connectedness (belonging to a social group) and acculturative stress (stress associated with joining a new culture) are predictive of depression.
 -- We will explore the students data using PostgreSQL to see if the length of stay is a contributing factor.
 	
 -- - Below is a description of the table we are working with:
