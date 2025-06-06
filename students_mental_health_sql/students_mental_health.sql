@@ -14,6 +14,7 @@
 -- tosc	Total score of social connectedness (SCS test)
 -- toas	Total score of acculturative stress (ASISS test)
 
+-- --------------SQL queries--------------
 SELECT stay, COUNT(*) AS count_int, ROUND(AVG(todep), 2) AS average_phq, ROUND(AVG(tosc), 2) AS average_scs, ROUND(AVG(toas), 2) AS average_as
 FROM students
 WHERE inter_dom = 'Inter'
