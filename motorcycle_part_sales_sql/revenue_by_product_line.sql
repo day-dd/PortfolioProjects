@@ -1,5 +1,6 @@
 -- -- (source: https://www.datacamp.com/projects/1574)
--- The goal is to analyze sales data of a company that sells motorcycle parts.
+-- The goal is to analyze sales data of a company that sells motorcycle parts, to gain a better understanding of wholesale revenue by product line, and how this varies month-to-month and across warehouses.
+
 -- To-Dos:
 -- Calculate net revenue for each product line
 -- Group results by month and warehouse
