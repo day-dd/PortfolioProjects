@@ -1,3 +1,4 @@
+# (source: https://www.datacamp.com/projects/1674)
 # The goal of the project is to perform exploratory data analysis to research movies released in the 1990's based on th data provided in netflix_data.csv
 
 # Questions to answer:
